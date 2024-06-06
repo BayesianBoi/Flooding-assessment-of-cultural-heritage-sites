@@ -1,4 +1,4 @@
-# Cultural Heritage Sites at Risk of Flooding in Copenhagen
+# Cultural heritage sites at risk of flooding in Copenhagen
 This project uses a simple height model to assess the risk of flooding on cultural heritage sites in Copenhagen.
 
 ## Repository structure
